@@ -1,0 +1,16 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
